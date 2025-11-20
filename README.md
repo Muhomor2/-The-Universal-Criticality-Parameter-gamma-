@@ -2,8 +2,7 @@
 
 ## 💡 Status: Final Monograph Draft (v3.0) 
 
-**Author:** Igor Tchetchelnitsky
-**ORCID:** 0009-0007-4607-1946
+**Author:** Igor Chechelnitsky
 **Date:** 20 November 2025
 
 ---
@@ -37,4 +36,4 @@ The results are fully reproducible. All code is located in the **`/code`** direc
     ```
 
 ### **4. FULL MONOGRAPH TEXT**
-The full, formalized mathematical proofs and derivations are available in the **`/docs`** directory.
+The complete mathematical proofs, formal derivations, and theoretical context are provided in the LaTeX documents located in the **`/docs`** directory.
