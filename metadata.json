@@ -1,0 +1,9 @@
+{
+  "title": "The Universal Criticality Parameter (gamma*) and the Origin of GUE Statistics in Riemann Zeros (QUCT)",
+  "author": "Igor Tchetchelnitsky",
+  "ORCID": "0009-0007-4607-1946",
+  "date": "2025-11-20",
+  "description": "Analytical derivation of the GUE spectral parameter for Riemann zeta zeros using the Qadmon Universal Criticality Theory (QUCT). Includes reproducible Python code and LaTeX source files.",
+  "keywords": ["Riemann zeta", "Random Matrix Theory", "GUE", "Criticality", "QUCT", "gamma*"],
+  "version": "3.0"
+}
